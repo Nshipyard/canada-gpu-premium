@@ -1,0 +1,1446 @@
+{
+  "us-east-1": [
+    {
+      "instanceType": "g5.12xlarge",
+      "vcpu": "48",
+      "gpu": "4",
+      "memory": "192 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "UH59G55UJ94HZTJJ",
+      "ondemand_usd_hr": "5.6720000000",
+      "ondemand_desc": "$5.672 per On Demand Linux g5.12xlarge Instance Hour",
+      "reserved": [
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "1.7016000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "4.4667000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "3.5733600000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "2.1270000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "2.4503000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "1.1344000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "3.0628800000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "1.4180000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        }
+      ]
+    },
+    {
+      "instanceType": "g5.12xlarge",
+      "vcpu": "48",
+      "gpu": "4",
+      "memory": "192 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "2MYHA9TN42EBS6ZE",
+      "ondemand_usd_hr": "5.6720000000",
+      "ondemand_desc": "$5.672 per Unused Reservation Linux g5.12xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.12xlarge",
+      "vcpu": "48",
+      "gpu": "4",
+      "memory": "192 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "YZ8WESXV7ZJXJKR6",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Reservation Linux g5.12xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.2xlarge",
+      "vcpu": "8",
+      "gpu": "1",
+      "memory": "32 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "7D8DTTWZ9XBDNRED",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Reservation Linux g5.2xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.2xlarge",
+      "vcpu": "8",
+      "gpu": "1",
+      "memory": "32 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "FX9TUYTJKEENVBSR",
+      "ondemand_usd_hr": "1.2120000000",
+      "ondemand_desc": "$1.212 per On Demand Linux g5.2xlarge Instance Hour",
+      "reserved": [
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "0.3636000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "0.6544800000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "0.7635600000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "0.2424000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "0.3030000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "0.9544500000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "0.5235800000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "0.4545000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        }
+      ]
+    },
+    {
+      "instanceType": "g5.2xlarge",
+      "vcpu": "8",
+      "gpu": "1",
+      "memory": "32 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "SM6P2DU2S9JHTEE5",
+      "ondemand_usd_hr": "1.2120000000",
+      "ondemand_desc": "$1.212 per Unused Reservation Linux g5.2xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "768 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "YX5WAG89Y55938RB",
+      "ondemand_usd_hr": "16.2880000000",
+      "ondemand_desc": "$16.288 per On Demand Linux g5.48xlarge Instance Hour",
+      "reserved": [
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "8.7955200000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "3.2576000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "4.0720000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "6.1080000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "10.2614400000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "4.8864000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "7.0364200000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "12.8268000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        }
+      ]
+    },
+    {
+      "instanceType": "g5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "768 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "MZMAKRFZ25CUY5S4",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Reservation Linux g5.48xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "768 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "Y3F85ZH52NEWZ9VV",
+      "ondemand_usd_hr": "16.2880000000",
+      "ondemand_desc": "$16.288 per Unused Reservation Linux g5.48xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.xlarge",
+      "vcpu": "4",
+      "gpu": "1",
+      "memory": "16 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "8Z99ZWH5YYGJ667E",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Reservation Linux g5.xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.xlarge",
+      "vcpu": "4",
+      "gpu": "1",
+      "memory": "16 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "BFFAVQRUJUGK9S8D",
+      "ondemand_usd_hr": "1.0060000000",
+      "ondemand_desc": "$1.006 per Unused Reservation Linux g5.xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.xlarge",
+      "vcpu": "4",
+      "gpu": "1",
+      "memory": "16 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "79BRGEEZC6TARVWJ",
+      "ondemand_usd_hr": "1.0060000000",
+      "ondemand_desc": "$1.006 per On Demand Linux g5.xlarge Instance Hour",
+      "reserved": [
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "0.4345900000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "0.5432400000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "0.2515000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "0.2012000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "0.3018000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "0.3772500000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "0.7922300000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "0.6337800000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        }
+      ]
+    },
+    {
+      "instanceType": "p4d.24xlarge",
+      "vcpu": "96",
+      "gpu": "8",
+      "memory": "1152 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "H7NGEAC6UEHNTKSJ",
+      "ondemand_usd_hr": "21.9576420000",
+      "ondemand_desc": "$21.957642 per On Demand Linux p4d.24xlarge Instance Hour",
+      "reserved": [
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "9.3742191000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "4.3399162000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "6.9438674000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "6.6290922000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "7.9549106000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "16.7053123000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "13.9210936000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "14.9987536000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        }
+      ]
+    },
+    {
+      "instanceType": "p4d.24xlarge",
+      "vcpu": "96",
+      "gpu": "8",
+      "memory": "1152 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "T7W79F2R9XNBP8EK",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Capacity Block Reservation Linux p4d.24xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "p4d.24xlarge",
+      "vcpu": "96",
+      "gpu": "8",
+      "memory": "1152 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "HWQTGMVB6B56NR62",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Reservation Linux p4d.24xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "p4d.24xlarge",
+      "vcpu": "96",
+      "gpu": "8",
+      "memory": "1152 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "K8ZAZ674WMCHWGQ9",
+      "ondemand_usd_hr": "21.9576420000",
+      "ondemand_desc": "$21.957642 per Unused Reservation Linux p4d.24xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "p4d.24xlarge",
+      "vcpu": "96",
+      "gpu": "8",
+      "memory": "1152 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "YSXJGN78QTXNVGDQ",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Capacity Block Linux p4d.24xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "p4d.24xlarge",
+      "vcpu": "96",
+      "gpu": "8",
+      "memory": "1152 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "MXS2XHC9NAGMYUH8",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Unused Capacity Block Linux p4d.24xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "p5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "2048 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "ZRH3CX4HNY5TXVDH",
+      "ondemand_usd_hr": "55.0400000000",
+      "ondemand_desc": "$55.04 per Unused Reservation Linux p5.48xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "p5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "2048 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "2W9JWWAYMQN2JFBR",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Reservation Linux p5.48xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "p5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "2048 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "UUER2TT5YYNGJ7GH",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Unused Capacity Block Linux p5.48xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "p5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "2048 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "5Q7AP3RH7KTVUNCJ",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Capacity Block Linux p5.48xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "p5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "2048 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "3D4V8UAYEMB38GU2",
+      "ondemand_usd_hr": "55.0400000000",
+      "ondemand_desc": "$55.04 per On Demand Linux p5.48xlarge Instance Hour",
+      "reserved": [
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "11.0080000000",
+          "desc": "Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "18.7136000000",
+          "desc": "Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "43.3440000000",
+          "desc": "Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "23.7772800000",
+          "desc": "Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "20.6400000000",
+          "desc": "Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "40.4213800000",
+          "desc": "Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        }
+      ]
+    },
+    {
+      "instanceType": "p5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "2048 GiB",
+      "location": "US East (N. Virginia)",
+      "sku": "PEET8VUKFESVCA8N",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Capacity Block Reservation Linux p5.48xlarge Instance Hour",
+      "reserved": []
+    }
+  ],
+  "ca-central-1": [
+    {
+      "instanceType": "g5.12xlarge",
+      "vcpu": "48",
+      "gpu": "4",
+      "memory": "192 GiB",
+      "location": "Canada (Central)",
+      "sku": "P9GQWSM4YX9DX4WA",
+      "ondemand_usd_hr": "6.2978400000",
+      "ondemand_desc": "$6.29784 per On Demand Linux g5.12xlarge Instance Hour",
+      "reserved": [
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "2.7206700000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "3.4008300000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "3.9676400000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "1.8893500000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "4.9595500000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "2.3616900000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "1.5744600000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "1.2595700000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.12xlarge reserved instance applied"
+        }
+      ]
+    },
+    {
+      "instanceType": "g5.12xlarge",
+      "vcpu": "48",
+      "gpu": "4",
+      "memory": "192 GiB",
+      "location": "Canada (Central)",
+      "sku": "S9CPDKDCHU478BH9",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Reservation Linux g5.12xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.12xlarge",
+      "vcpu": "48",
+      "gpu": "4",
+      "memory": "192 GiB",
+      "location": "Canada (Central)",
+      "sku": "UYKU5N9PZVFF2HER",
+      "ondemand_usd_hr": "6.2978400000",
+      "ondemand_desc": "$6.29784 per Unused Reservation Linux g5.12xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.2xlarge",
+      "vcpu": "8",
+      "gpu": "1",
+      "memory": "32 GiB",
+      "location": "Canada (Central)",
+      "sku": "6JZFGB89NPZ5A7KX",
+      "ondemand_usd_hr": "1.3457300000",
+      "ondemand_desc": "$1.34573 per Unused Reservation Linux g5.2xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.2xlarge",
+      "vcpu": "8",
+      "gpu": "1",
+      "memory": "32 GiB",
+      "location": "Canada (Central)",
+      "sku": "UAZRYUEBXTP3Z7U3",
+      "ondemand_usd_hr": "1.3457300000",
+      "ondemand_desc": "$1.34573 per On Demand Linux g5.2xlarge Instance Hour",
+      "reserved": [
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "0.3364300000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "0.4037200000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "0.2691500000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "0.7266900000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "0.5046500000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "1.0597600000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "0.8478100000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "0.5813600000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.2xlarge reserved instance applied"
+        }
+      ]
+    },
+    {
+      "instanceType": "g5.2xlarge",
+      "vcpu": "8",
+      "gpu": "1",
+      "memory": "32 GiB",
+      "location": "Canada (Central)",
+      "sku": "YQN6A9PWQRCENREP",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Reservation Linux g5.2xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "768 GiB",
+      "location": "Canada (Central)",
+      "sku": "H79NRYPCSA4VRTCY",
+      "ondemand_usd_hr": "18.0851800000",
+      "ondemand_desc": "$18.08518 per On Demand Linux g5.48xlarge Instance Hour",
+      "reserved": [
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "3.6170400000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "11.3936700000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "7.8128000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "14.2420800000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "6.7819400000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "5.4255600000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "4.5213000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "9.7660000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.48xlarge reserved instance applied"
+        }
+      ]
+    },
+    {
+      "instanceType": "g5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "768 GiB",
+      "location": "Canada (Central)",
+      "sku": "EXYMDYR26VXE299M",
+      "ondemand_usd_hr": "18.0851800000",
+      "ondemand_desc": "$18.08518 per Unused Reservation Linux g5.48xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "768 GiB",
+      "location": "Canada (Central)",
+      "sku": "BQASSW8SPEDH6UHB",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Reservation Linux g5.48xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.xlarge",
+      "vcpu": "4",
+      "gpu": "1",
+      "memory": "16 GiB",
+      "location": "Canada (Central)",
+      "sku": "Q7JKFCC78BRHJVBR",
+      "ondemand_usd_hr": "1.1170000000",
+      "ondemand_desc": "$1.117 per On Demand Linux g5.xlarge Instance Hour",
+      "reserved": [
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "0.3351000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "0.7037100000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "0.6031800000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "0.4825400000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "0.2792500000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "0.2234000000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "0.4188800000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "0.8796400000",
+          "desc": "Linux/UNIX (Amazon VPC), g5.xlarge reserved instance applied"
+        }
+      ]
+    },
+    {
+      "instanceType": "g5.xlarge",
+      "vcpu": "4",
+      "gpu": "1",
+      "memory": "16 GiB",
+      "location": "Canada (Central)",
+      "sku": "ENNTU5Y495CFZKVB",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Reservation Linux g5.xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "g5.xlarge",
+      "vcpu": "4",
+      "gpu": "1",
+      "memory": "16 GiB",
+      "location": "Canada (Central)",
+      "sku": "S523K5JTE5NFT2TY",
+      "ondemand_usd_hr": "1.1170000000",
+      "ondemand_desc": "$1.117 per Unused Reservation Linux g5.xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "p4d.24xlarge",
+      "vcpu": "96",
+      "gpu": "8",
+      "memory": "1152 GiB",
+      "location": "Canada (Central)",
+      "sku": "AVR84Q876ZPQR2FG",
+      "ondemand_usd_hr": "25.2517400000",
+      "ondemand_desc": "$25.25174 per On Demand Linux p4d.24xlarge Instance Hour",
+      "reserved": [
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "4.9909930000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "7.9877037000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "16.0095440000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "19.2114529000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "10.7805448000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "9.1483109000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "7.6235924000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "17.2534400000",
+          "desc": "Linux/UNIX (Amazon VPC), p4d.24xlarge reserved instance applied"
+        }
+      ]
+    },
+    {
+      "instanceType": "p4d.24xlarge",
+      "vcpu": "96",
+      "gpu": "8",
+      "memory": "1152 GiB",
+      "location": "Canada (Central)",
+      "sku": "ZC4AYQJ5X5HPE2P2",
+      "ondemand_usd_hr": "25.2517400000",
+      "ondemand_desc": "$25.25174 per Unused Reservation Linux p4d.24xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "p4d.24xlarge",
+      "vcpu": "96",
+      "gpu": "8",
+      "memory": "1152 GiB",
+      "location": "Canada (Central)",
+      "sku": "XNSJ55KXHTGZHPHT",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Reservation Linux p4d.24xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "p5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "2048 GiB",
+      "location": "Canada (Central)",
+      "sku": "AHYXGMBCYXHEKKGF",
+      "ondemand_usd_hr": "63.2960000000",
+      "ondemand_desc": "$63.296 per On Demand Linux p5.48xlarge Instance Hour",
+      "reserved": [
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "Partial Upfront",
+          "usd": "12.6592000000",
+          "desc": "Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "21.5206400000",
+          "desc": "Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "standard",
+          "purchase": "No Upfront",
+          "usd": "27.3438700000",
+          "desc": "Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "All Upfront",
+          "usd": "0.0000000000",
+          "desc": "USD 0.0 per Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "3yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "46.4845800000",
+          "desc": "Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "No Upfront",
+          "usd": "49.8456000000",
+          "desc": "Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        },
+        {
+          "lease": "1yr",
+          "offering": "convertible",
+          "purchase": "Partial Upfront",
+          "usd": "23.7360000000",
+          "desc": "Linux/UNIX (Amazon VPC), p5.48xlarge reserved instance applied"
+        }
+      ]
+    },
+    {
+      "instanceType": "p5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "2048 GiB",
+      "location": "Canada (Central)",
+      "sku": "TGJG2JEG6DAWADHH",
+      "ondemand_usd_hr": "63.2960000000",
+      "ondemand_desc": "$63.296 per Unused Reservation Linux p5.48xlarge Instance Hour",
+      "reserved": []
+    },
+    {
+      "instanceType": "p5.48xlarge",
+      "vcpu": "192",
+      "gpu": "8",
+      "memory": "2048 GiB",
+      "location": "Canada (Central)",
+      "sku": "35SSR8NE77PU36WA",
+      "ondemand_usd_hr": "0.0000000000",
+      "ondemand_desc": "$0.00 per Reservation Linux p5.48xlarge Instance Hour",
+      "reserved": []
+    }
+  ]
+}

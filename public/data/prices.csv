@@ -1,0 +1,19 @@
+provider,gpu,gpus_per_vm,sku,rate_type,ca_region,us_region,us_usd_hr,ca_usd_hr,us_cad_hr,ca_cad_hr,premium_pct,source,source_url
+aws,A100 40GB,8,p4d.24xlarge,on-demand,ca-central-1,us-east-1,21.9576,25.2517,31.2698,35.9609,15.0,AWS Price List Bulk API (AmazonEC2 offer file),https://pricing.us-east-1.amazonaws.com/offers/v1.0/aws/AmazonEC2/current/
+aws,A10G 24GB,4,g5.12xlarge,on-demand,ca-central-1,us-east-1,5.672,6.2978,8.0775,8.9687,11.03,AWS Price List Bulk API (AmazonEC2 offer file),https://pricing.us-east-1.amazonaws.com/offers/v1.0/aws/AmazonEC2/current/
+aws,A10G 24GB,1,g5.2xlarge,on-demand,ca-central-1,us-east-1,1.212,1.3457,1.726,1.9164,11.03,AWS Price List Bulk API (AmazonEC2 offer file),https://pricing.us-east-1.amazonaws.com/offers/v1.0/aws/AmazonEC2/current/
+aws,A10G 24GB,8,g5.48xlarge,on-demand,ca-central-1,us-east-1,16.288,18.0852,23.1957,25.755,11.03,AWS Price List Bulk API (AmazonEC2 offer file),https://pricing.us-east-1.amazonaws.com/offers/v1.0/aws/AmazonEC2/current/
+aws,A10G 24GB,1,g5.xlarge,on-demand,ca-central-1,us-east-1,1.006,1.117,1.4326,1.5907,11.03,AWS Price List Bulk API (AmazonEC2 offer file),https://pricing.us-east-1.amazonaws.com/offers/v1.0/aws/AmazonEC2/current/
+azure,A100 80GB,1,Standard_NC24ads_A100_v4,on-demand,canadacentral,eastus,3.673,4.408,5.2307,6.2774,20.01,Azure Retail Prices API,https://prices.azure.com/api/retail/prices
+azure,A100 80GB,2,Standard_NC48ads_A100_v4,on-demand,canadacentral,eastus,7.346,8.815,10.4614,12.5534,20.0,Azure Retail Prices API,https://prices.azure.com/api/retail/prices
+azure,A100 80GB,4,Standard_NC96ads_A100_v4,on-demand,canadacentral,eastus,14.692,17.63,20.9228,25.1068,20.0,Azure Retail Prices API,https://prices.azure.com/api/retail/prices
+azure,H100 80GB,1,Standard_NC40ads_H100_v5,on-demand,canadacentral,eastus,6.98,8.59,9.9402,12.233,23.07,Azure Retail Prices API,https://prices.azure.com/api/retail/prices
+azure,H100 80GB,2,Standard_NC80adis_H100_v5,on-demand,canadacentral,eastus,13.96,17.18,19.8804,24.466,23.07,Azure Retail Prices API,https://prices.azure.com/api/retail/prices
+azure,T4 16GB,2,Standard_NC16as_T4_v3,on-demand,canadacentral,eastus,1.204,1.336,1.7146,1.9026,10.96,Azure Retail Prices API,https://prices.azure.com/api/retail/prices
+azure,T4 16GB,1,Standard_NC4as_T4_v3,on-demand,canadacentral,eastus,0.526,0.584,0.7491,0.8317,11.03,Azure Retail Prices API,https://prices.azure.com/api/retail/prices
+azure,T4 16GB,4,Standard_NC64as_T4_v3,on-demand,canadacentral,eastus,4.352,4.82,6.1977,6.8641,10.75,Azure Retail Prices API,https://prices.azure.com/api/retail/prices
+azure,T4 16GB,1,Standard_NC8as_T4_v3,on-demand,canadacentral,eastus,0.752,0.834,1.0709,1.1877,10.9,Azure Retail Prices API,https://prices.azure.com/api/retail/prices
+azure,V100 16GB,2,Standard_NC12s_v3,on-demand,canadacentral,eastus,6.12,6.732,8.7155,9.587,10.0,Azure Retail Prices API,https://prices.azure.com/api/retail/prices
+azure,V100 16GB,4,Standard_NC24rs_v3,on-demand,canadacentral,eastus,13.46,14.81,19.1683,21.0909,10.03,Azure Retail Prices API,https://prices.azure.com/api/retail/prices
+azure,V100 16GB,4,Standard_NC24s_v3,on-demand,canadacentral,eastus,12.24,13.464,17.4309,19.174,10.0,Azure Retail Prices API,https://prices.azure.com/api/retail/prices
+azure,V100 16GB,1,Standard_NC6s_v3,on-demand,canadacentral,eastus,3.06,3.366,4.3577,4.7935,10.0,Azure Retail Prices API,https://prices.azure.com/api/retail/prices
